@@ -2,7 +2,7 @@
 ## 学籍番号
 4724212
 
-##動作確認
+## 動作確認
 @4724212 ➜ /workspaces/web-eng-docker (class-03-docker) $ curl http://localhost:8080
 <!doctype html>
 <html lang="ja">
